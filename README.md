@@ -1,2 +1,0 @@
-# stratego
-Created with CodeSandbox
